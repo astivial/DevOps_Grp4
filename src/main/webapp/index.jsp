@@ -9,7 +9,7 @@
 	  background-color: #cccccc;
         backdrop-filter: blur(5px);
 		font-family: Verdana;
-		font-size: 12px;}
+		font-size: 13px;}
 </style>
 <meta charset="ISO-8859-1">
 <title>DevOps e-Commerce</title>
