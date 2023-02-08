@@ -3,6 +3,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+	body {background-image: url("https://ak.picdn.net/shutterstock/videos/1056489392/thumb/1.jpg?ip=x480");
+	background-color: #cccccc;
+	  background-color: #cccccc;
+        backdrop-filter: blur(5px);
+		font-family: Verdana;
+		font-size: 12px;}
+</style>
 <meta charset="ISO-8859-1">
 <title>DevOps e-Commerce</title>
 <link rel="stylesheet"
